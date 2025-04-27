@@ -6,7 +6,7 @@ Implementation of [6-DoF GraspNet](https://arxiv.org/abs/1905.10520) with tensor
 
 Скачиваем себе на компьютер репозиторий:
 ```bash
-git clone 
+git clone git@github.com:dakolzin/6dof-graspnet.git
 ```
 
 Переходим в папку:
